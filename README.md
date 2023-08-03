@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+//project detail:
+i have developed project using reactjs first i have fetched an Api for an API i have created service folder and then i have created components folder inside components folder i have made 4 charachter file 
+here is the deployed link of netlify
+https://64cb91984ee69268b133b75e--loquacious-arithmetic-945f0c.netlify.app/
+
 ### `npm start`
 
 Runs the app in the development mode.\
