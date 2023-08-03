@@ -1,0 +1,39 @@
+.card-main-para{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.text-field-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+.input-field{
+    height: 25px;
+    width: 200px;
+    outline: none;
+    border-radius: 50px solid grey;
+    
+}
+.option-value{
+    height: 30px;
+    width: 100px;
+    outline: none;
+}
+.option-value-status{
+    height: 20px;
+    width: 80px;
+    border-bottom: 5px solid grey;
+    padding: 5px;
+}
+.search-btn{
+    height: 30px;
+    width: 80px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
